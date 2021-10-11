@@ -6,6 +6,6 @@
     <title>PHP - Hello, World!</title>
 </head>
 <body>
-        <h1><?php echo 'Hello, World, Şeyma'; ?></h1>
+        <h1><?php echo 'Hello, World, Kenan'; ?></h1>
 </body>
 </html>
